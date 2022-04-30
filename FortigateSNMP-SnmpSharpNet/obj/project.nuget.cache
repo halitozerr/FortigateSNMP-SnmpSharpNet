@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "aQS7TRDU56Q+gZ7q1RV4Ld7yQe+ZDmGpi0w3Dn7XMBucSS4upxhhwnyaB6kqU2ZM4xpNoetL1xSKbQDsElKn7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halit.ozer\\Documents\\GitHub\\FortigateSNMP-SnmpSharpNet\\FortigateSNMP-SnmpSharpNet\\FortigateSNMP-SnmpSharpNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halit.ozer\\.nuget\\packages\\snmpsharpnet\\0.9.5\\snmpsharpnet.0.9.5.nupkg.sha512",
+    "C:\\Users\\halit.ozer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SnmpSharpNet 0.9.5' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SnmpSharpNet",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2e6838d3-fd67-4fda-a8f2-8e9dc62003f9": {
+      "ProjectGuid": "2e6838d3-fd67-4fda-a8f2-8e9dc62003f9",
+      "DisplayName": "FortigateSNMP-SnmpSharpNet",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FortigateSNMP-SnmpSharpNet/1.0.0": {
+        "dependencies": {
+          "SnmpSharpNet": "0.9.5"
+        },
+        "runtime": {
+          "FortigateSNMP-SnmpSharpNet.dll": {}
+        }
+      },
+      "SnmpSharpNet/0.9.5": {
+        "runtime": {
+          "lib/SnmpSharpNet.dll": {
+            "assemblyVersion": "0.9.5.0",
+            "fileVersion": "0.9.5.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FortigateSNMP-SnmpSharpNet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SnmpSharpNet/0.9.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uBkoPma04HngWy8ox6oUZsJqvNVzmDEV0CmjnwaGnTIVXfQTPbXQ2mE9h7YMQJFuLStlWcJogyPxVVabIUWlPQ==",
+      "path": "snmpsharpnet/0.9.5",
+      "hashPath": "snmpsharpnet.0.9.5.nupkg.sha512"
+    }
+  }
+}
